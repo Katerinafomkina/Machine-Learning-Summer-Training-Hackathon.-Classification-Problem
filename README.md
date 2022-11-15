@@ -12,5 +12,5 @@ Steps:
 4. Feature Imputing for 'education'
 5. One hot encoding for 'proof_submitted'
 6. Label Encoding for 'education'
-7. Modelling.
-My model is Random Forest Classifier Final macro f1_score=0.524564 for test pd.
+7. Modelling. I build: Logistic Regression, Desicion Tree Classifier, Random Forest Classifier, Bagging Classifier, XGBOOST.
+My final model is Random Forest Classifier Final macro f1_score=0.524564 for test pd.
